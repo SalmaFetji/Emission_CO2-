@@ -1,0 +1,10 @@
+Contexte du projet
+La collectivité d'une ville fait appel à votre agence spécialisée dans l’analyse des émissions CO2 des bâtiments. Le président de la collectivité souhaite mettre en place une stratégie à 4 ans pour réduire les émissions de gaz à effet de serre.
+
+Pour cela, vous disposez d’un de jeu de données sur l’information de 3376 bâtiments et 46 colonnes. Ces données représentent des mesures de relevés annuelles collectées en 2016 par des agents de la ville.
+
+Dans un premier temps, le président souhaite avoir une analyse de ce jeu de données et faire un état de lieu de la ville de Seattle en termes d’émissions CO2 et consommation d’énergie. Dans cette analyse, vous devez expliquer ce qui impact le plus sur les émissions CO2.
+
+Puis, étant donné que les relevés sont coûteux à obtenir, la collectivité aimerait avoir un outil de prédiction, notamment pour l’utiliser sur les bâtiments où l’on n’a pas encore des mesures ou bien dans les années à venir. Ainsi, ils vont pouvoir prédire la consommation des bâtiments et leur taux d'émission CO2.
+
+Ce modèle devrait être déployé et accessible en ligne via une application en utilisant les services d’Azure, tout en mettant en place une démarche CI/CD.
