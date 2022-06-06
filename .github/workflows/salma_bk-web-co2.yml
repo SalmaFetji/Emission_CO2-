@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'bk-web-co2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_14F9FC0A978744039F22B788BE53EC77 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D087199AF4994568AD15C2E139890A09 }}
